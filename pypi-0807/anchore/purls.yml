@@ -1,0 +1,13 @@
+- pkg:pypi/anchore@0.9.0
+- pkg:pypi/anchore@0.9.0rc1
+- pkg:pypi/anchore@1.0.0
+- pkg:pypi/anchore@1.0.1
+- pkg:pypi/anchore@1.0.3
+- pkg:pypi/anchore@1.1.0
+- pkg:pypi/anchore@1.1.1
+- pkg:pypi/anchore@1.1.2
+- pkg:pypi/anchore@1.1.3
+- pkg:pypi/anchore@1.1.4
+- pkg:pypi/anchore@1.1.5
+- pkg:pypi/anchore@1.1.6
+- pkg:pypi/anchore@1.1.7
