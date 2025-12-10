@@ -1,0 +1,2 @@
+- pkg:pypi/airflow-sops-secrets-backend@0.0.1
+- pkg:pypi/airflow-sops-secrets-backend@0.0.2

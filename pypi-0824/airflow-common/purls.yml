@@ -1,0 +1,3 @@
+- pkg:pypi/airflow-common@0.7.6
+- pkg:pypi/airflow-common@0.7.7
+- pkg:pypi/airflow-common@0.7.8
