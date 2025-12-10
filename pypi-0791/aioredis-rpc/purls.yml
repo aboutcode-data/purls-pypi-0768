@@ -1,0 +1,4 @@
+- pkg:pypi/aioredis-rpc@0.1.1
+- pkg:pypi/aioredis-rpc@0.2.0
+- pkg:pypi/aioredis-rpc@1.0.0
+- pkg:pypi/aioredis-rpc@1.1.0
