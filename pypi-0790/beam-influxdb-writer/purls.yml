@@ -1,0 +1,2 @@
+- pkg:pypi/beam-influxdb-writer@0.3
+- pkg:pypi/beam-influxdb-writer@0.4
