@@ -1,0 +1,4 @@
+- pkg:pypi/aqueduct-client@0.1.1
+- pkg:pypi/aqueduct-client@0.2
+- pkg:pypi/aqueduct-client@0.3
+- pkg:pypi/aqueduct-client@0.4.0
