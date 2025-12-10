@@ -1,0 +1,11 @@
+- pkg:pypi/azure-requests@22.12.1
+- pkg:pypi/azure-requests@23.2
+- pkg:pypi/azure-requests@23.3
+- pkg:pypi/azure-requests@23.4
+- pkg:pypi/azure-requests@23.5
+- pkg:pypi/azure-requests@23.6
+- pkg:pypi/azure-requests@24.1
+- pkg:pypi/azure-requests@24.2
+- pkg:pypi/azure-requests@24.3
+- pkg:pypi/azure-requests@24.4
+- pkg:pypi/azure-requests@25.1

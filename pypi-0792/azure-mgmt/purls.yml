@@ -1,0 +1,17 @@
+- pkg:pypi/azure-mgmt@0.20.0
+- pkg:pypi/azure-mgmt@0.20.0rc1
+- pkg:pypi/azure-mgmt@0.20.0rc2
+- pkg:pypi/azure-mgmt@0.20.1
+- pkg:pypi/azure-mgmt@0.20.2
+- pkg:pypi/azure-mgmt@0.30.0a1
+- pkg:pypi/azure-mgmt@0.30.0rc1
+- pkg:pypi/azure-mgmt@0.30.0rc2
+- pkg:pypi/azure-mgmt@0.30.0rc3
+- pkg:pypi/azure-mgmt@0.30.0rc4
+- pkg:pypi/azure-mgmt@0.30.0rc5
+- pkg:pypi/azure-mgmt@0.30.0rc6
+- pkg:pypi/azure-mgmt@1.0.0
+- pkg:pypi/azure-mgmt@1.0.0rc1
+- pkg:pypi/azure-mgmt@2.0.0
+- pkg:pypi/azure-mgmt@4.0.0
+- pkg:pypi/azure-mgmt@5.0.0
