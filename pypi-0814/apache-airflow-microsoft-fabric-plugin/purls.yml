@@ -1,0 +1,4 @@
+- pkg:pypi/apache-airflow-microsoft-fabric-plugin@1.0.0
+- pkg:pypi/apache-airflow-microsoft-fabric-plugin@1.0.1
+- pkg:pypi/apache-airflow-microsoft-fabric-plugin@1.0.2
+- pkg:pypi/apache-airflow-microsoft-fabric-plugin@1.0.3

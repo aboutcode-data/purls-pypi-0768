@@ -1,0 +1,4 @@
+- pkg:pypi/apache-airflow-backport-providers-papermill@2021.2.5
+- pkg:pypi/apache-airflow-backport-providers-papermill@2021.2.5rc1
+- pkg:pypi/apache-airflow-backport-providers-papermill@2021.3.3
+- pkg:pypi/apache-airflow-backport-providers-papermill@2021.3.3rc1
