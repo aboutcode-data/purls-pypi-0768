@@ -1,0 +1,4 @@
+- pkg:pypi/aiohttp-ac-hipchat-postgre@0.1.dev0
+- pkg:pypi/aiohttp-ac-hipchat-postgre@0.2.dev0
+- pkg:pypi/aiohttp-ac-hipchat-postgre@0.3.dev0
+- pkg:pypi/aiohttp-ac-hipchat-postgre@0.3.dev1
