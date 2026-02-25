@@ -1,3 +1,4 @@
 - pkg:pypi/brevo-python@1.0.0
 - pkg:pypi/brevo-python@1.1.2
 - pkg:pypi/brevo-python@1.2.0
+- pkg:pypi/brevo-python@4.0.5

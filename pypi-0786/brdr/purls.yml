@@ -4,6 +4,12 @@
 - pkg:pypi/brdr@0.12.0
 - pkg:pypi/brdr@0.13.0
 - pkg:pypi/brdr@0.14.0
+- pkg:pypi/brdr@0.15.0
+- pkg:pypi/brdr@0.15.1
+- pkg:pypi/brdr@0.15.2
+- pkg:pypi/brdr@0.15.3
+- pkg:pypi/brdr@0.15.4
+- pkg:pypi/brdr@0.15.5
 - pkg:pypi/brdr@0.2.0
 - pkg:pypi/brdr@0.2.1
 - pkg:pypi/brdr@0.3.0
