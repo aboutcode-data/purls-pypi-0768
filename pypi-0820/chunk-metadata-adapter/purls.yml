@@ -58,3 +58,6 @@
 - pkg:pypi/chunk-metadata-adapter@3.2.3
 - pkg:pypi/chunk-metadata-adapter@3.3.0
 - pkg:pypi/chunk-metadata-adapter@3.3.1
+- pkg:pypi/chunk-metadata-adapter@3.3.2
+- pkg:pypi/chunk-metadata-adapter@3.3.3
+- pkg:pypi/chunk-metadata-adapter@3.3.4
