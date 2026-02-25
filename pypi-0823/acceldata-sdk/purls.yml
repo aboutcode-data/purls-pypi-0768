@@ -22,6 +22,9 @@
 - pkg:pypi/acceldata-sdk@2.7.0
 - pkg:pypi/acceldata-sdk@2.7.1
 - pkg:pypi/acceldata-sdk@2.7.2
+- pkg:pypi/acceldata-sdk@26.1.0
+- pkg:pypi/acceldata-sdk@26.2.0
+- pkg:pypi/acceldata-sdk@26.2.1
 - pkg:pypi/acceldata-sdk@3.0.0
 - pkg:pypi/acceldata-sdk@3.1.0
 - pkg:pypi/acceldata-sdk@3.10.0

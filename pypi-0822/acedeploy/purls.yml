@@ -14,6 +14,11 @@
 - pkg:pypi/acedeploy@2.4.283
 - pkg:pypi/acedeploy@2.4.287
 - pkg:pypi/acedeploy@2.4.291
+- pkg:pypi/acedeploy@2.4.295
+- pkg:pypi/acedeploy@2.4.306
+- pkg:pypi/acedeploy@2.4.310
+- pkg:pypi/acedeploy@2.4.314
+- pkg:pypi/acedeploy@2.4.318
 - pkg:pypi/acedeploy@2.4.35
 - pkg:pypi/acedeploy@2.4.40
 - pkg:pypi/acedeploy@2.4.42

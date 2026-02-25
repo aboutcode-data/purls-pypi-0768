@@ -14,6 +14,8 @@
 - pkg:pypi/abi3audit@0.0.22
 - pkg:pypi/abi3audit@0.0.23
 - pkg:pypi/abi3audit@0.0.24
+- pkg:pypi/abi3audit@0.0.25
+- pkg:pypi/abi3audit@0.0.26
 - pkg:pypi/abi3audit@0.0.3
 - pkg:pypi/abi3audit@0.0.5
 - pkg:pypi/abi3audit@0.0.6

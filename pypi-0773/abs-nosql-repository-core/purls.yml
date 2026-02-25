@@ -9,6 +9,8 @@
 - pkg:pypi/abs-nosql-repository-core@0.10.3
 - pkg:pypi/abs-nosql-repository-core@0.10.4
 - pkg:pypi/abs-nosql-repository-core@0.11.1
+- pkg:pypi/abs-nosql-repository-core@0.11.10
+- pkg:pypi/abs-nosql-repository-core@0.11.11
 - pkg:pypi/abs-nosql-repository-core@0.11.2
 - pkg:pypi/abs-nosql-repository-core@0.11.3
 - pkg:pypi/abs-nosql-repository-core@0.11.4
