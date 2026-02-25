@@ -24,6 +24,13 @@
 - pkg:pypi/baml-py@0.212.0
 - pkg:pypi/baml-py@0.213.0
 - pkg:pypi/baml-py@0.214.0
+- pkg:pypi/baml-py@0.215.0
+- pkg:pypi/baml-py@0.215.2
+- pkg:pypi/baml-py@0.216.0
+- pkg:pypi/baml-py@0.217.0
+- pkg:pypi/baml-py@0.218.0
+- pkg:pypi/baml-py@0.218.1
+- pkg:pypi/baml-py@0.219.0
 - pkg:pypi/baml-py@0.30.3
 - pkg:pypi/baml-py@0.30.4
 - pkg:pypi/baml-py@0.31.0

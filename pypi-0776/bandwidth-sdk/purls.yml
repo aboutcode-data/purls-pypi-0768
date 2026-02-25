@@ -63,6 +63,9 @@
 - pkg:pypi/bandwidth-sdk@21.0.0
 - pkg:pypi/bandwidth-sdk@21.0.1
 - pkg:pypi/bandwidth-sdk@21.1.0
+- pkg:pypi/bandwidth-sdk@21.2.0
+- pkg:pypi/bandwidth-sdk@22.0.0
+- pkg:pypi/bandwidth-sdk@22.1.0
 - pkg:pypi/bandwidth-sdk@3.0.0b0
 - pkg:pypi/bandwidth-sdk@3.0.1
 - pkg:pypi/bandwidth-sdk@3.0.3
