@@ -8,3 +8,6 @@
 - pkg:pypi/berapi@0.1.7
 - pkg:pypi/berapi@0.1.8
 - pkg:pypi/berapi@0.1.9
+- pkg:pypi/berapi@2.0.0
+- pkg:pypi/berapi@2.1.0
+- pkg:pypi/berapi@2.2.0
