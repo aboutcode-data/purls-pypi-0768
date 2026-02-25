@@ -12,6 +12,7 @@
 - pkg:pypi/avocado-framework-plugin-robot@110.0
 - pkg:pypi/avocado-framework-plugin-robot@111.0
 - pkg:pypi/avocado-framework-plugin-robot@112.0
+- pkg:pypi/avocado-framework-plugin-robot@113.0
 - pkg:pypi/avocado-framework-plugin-robot@47.0
 - pkg:pypi/avocado-framework-plugin-robot@48.0
 - pkg:pypi/avocado-framework-plugin-robot@49.0

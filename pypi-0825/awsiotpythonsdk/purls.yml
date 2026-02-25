@@ -18,3 +18,4 @@
 - pkg:pypi/awsiotpythonsdk@1.5.2
 - pkg:pypi/awsiotpythonsdk@1.5.4
 - pkg:pypi/awsiotpythonsdk@1.5.5
+- pkg:pypi/awsiotpythonsdk@1.6.0

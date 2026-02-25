@@ -191,6 +191,8 @@
 - pkg:pypi/awkward@2.8.0
 - pkg:pypi/awkward@2.8.1
 - pkg:pypi/awkward@2.8.10
+- pkg:pypi/awkward@2.8.11
+- pkg:pypi/awkward@2.8.12
 - pkg:pypi/awkward@2.8.2
 - pkg:pypi/awkward@2.8.3
 - pkg:pypi/awkward@2.8.4
@@ -199,3 +201,4 @@
 - pkg:pypi/awkward@2.8.7
 - pkg:pypi/awkward@2.8.8
 - pkg:pypi/awkward@2.8.9
+- pkg:pypi/awkward@2.9.0
