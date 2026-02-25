@@ -18,6 +18,7 @@
 - pkg:pypi/allure-robotframework@2.15.0
 - pkg:pypi/allure-robotframework@2.15.1
 - pkg:pypi/allure-robotframework@2.15.2
+- pkg:pypi/allure-robotframework@2.15.3
 - pkg:pypi/allure-robotframework@2.4.0
 - pkg:pypi/allure-robotframework@2.4.1
 - pkg:pypi/allure-robotframework@2.5.0
