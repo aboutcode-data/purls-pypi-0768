@@ -4,6 +4,8 @@
 - pkg:pypi/bigquery-magics@0.10.1
 - pkg:pypi/bigquery-magics@0.10.2
 - pkg:pypi/bigquery-magics@0.10.3
+- pkg:pypi/bigquery-magics@0.11.0
+- pkg:pypi/bigquery-magics@0.12.0
 - pkg:pypi/bigquery-magics@0.2.0
 - pkg:pypi/bigquery-magics@0.3.0
 - pkg:pypi/bigquery-magics@0.4.0
