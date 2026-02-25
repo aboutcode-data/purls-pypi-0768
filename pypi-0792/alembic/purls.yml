@@ -94,6 +94,11 @@
 - pkg:pypi/alembic@1.17.0
 - pkg:pypi/alembic@1.17.1
 - pkg:pypi/alembic@1.17.2
+- pkg:pypi/alembic@1.18.0
+- pkg:pypi/alembic@1.18.1
+- pkg:pypi/alembic@1.18.2
+- pkg:pypi/alembic@1.18.3
+- pkg:pypi/alembic@1.18.4
 - pkg:pypi/alembic@1.2.0
 - pkg:pypi/alembic@1.2.1
 - pkg:pypi/alembic@1.3.0
