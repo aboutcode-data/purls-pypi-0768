@@ -30,6 +30,10 @@
 - pkg:pypi/arclet-entari@0.16.6
 - pkg:pypi/arclet-entari@0.16.7
 - pkg:pypi/arclet-entari@0.16.8
+- pkg:pypi/arclet-entari@0.17.0rc1
+- pkg:pypi/arclet-entari@0.17.0rc2
+- pkg:pypi/arclet-entari@0.17.0rc3
+- pkg:pypi/arclet-entari@0.17.0rc4
 - pkg:pypi/arclet-entari@0.2.0
 - pkg:pypi/arclet-entari@0.3.0
 - pkg:pypi/arclet-entari@0.3.1
