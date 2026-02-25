@@ -1,0 +1,4 @@
+- pkg:pypi/cli2-ansible@4.3.5.dev1
+- pkg:pypi/cli2-ansible@5.0.0rc2
+- pkg:pypi/cli2-ansible@5.0.0rc3
+- pkg:pypi/cli2-ansible@5.0.0rc6
