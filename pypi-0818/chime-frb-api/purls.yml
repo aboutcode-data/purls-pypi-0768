@@ -41,3 +41,5 @@
 - pkg:pypi/chime-frb-api@4.6.3
 - pkg:pypi/chime-frb-api@4.7.0
 - pkg:pypi/chime-frb-api@4.8.0
+- pkg:pypi/chime-frb-api@4.8.1
+- pkg:pypi/chime-frb-api@4.9.0

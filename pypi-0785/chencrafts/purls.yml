@@ -12,6 +12,13 @@
 - pkg:pypi/chencrafts@2.5
 - pkg:pypi/chencrafts@3.0
 - pkg:pypi/chencrafts@3.1
+- pkg:pypi/chencrafts@3.10
+- pkg:pypi/chencrafts@3.11
 - pkg:pypi/chencrafts@3.2
 - pkg:pypi/chencrafts@3.3
 - pkg:pypi/chencrafts@3.4
+- pkg:pypi/chencrafts@3.5
+- pkg:pypi/chencrafts@3.6
+- pkg:pypi/chencrafts@3.7
+- pkg:pypi/chencrafts@3.8
+- pkg:pypi/chencrafts@3.9
