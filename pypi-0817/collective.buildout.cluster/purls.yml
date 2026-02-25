@@ -1,0 +1,6 @@
+- pkg:pypi/collective.buildout.cluster@0.1
+- pkg:pypi/collective.buildout.cluster@0.2
+- pkg:pypi/collective.buildout.cluster@0.3
+- pkg:pypi/collective.buildout.cluster@0.4
+- pkg:pypi/collective.buildout.cluster@0.5
+- pkg:pypi/collective.buildout.cluster@0.6
