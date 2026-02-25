@@ -153,4 +153,5 @@
 - pkg:pypi/autobahn@25.10.2
 - pkg:pypi/autobahn@25.11.1
 - pkg:pypi/autobahn@25.12.1
+- pkg:pypi/autobahn@25.12.2
 - pkg:pypi/autobahn@25.9.1

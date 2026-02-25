@@ -41,3 +41,5 @@
 - pkg:pypi/authx@1.4.1
 - pkg:pypi/authx@1.4.2
 - pkg:pypi/authx@1.4.3
+- pkg:pypi/authx@1.5.0
+- pkg:pypi/authx@1.5.1
