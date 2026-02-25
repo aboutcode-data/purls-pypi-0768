@@ -55,3 +55,5 @@
 - pkg:pypi/chat-exporter@2.8.2
 - pkg:pypi/chat-exporter@2.8.3
 - pkg:pypi/chat-exporter@2.8.4
+- pkg:pypi/chat-exporter@3.0.0
+- pkg:pypi/chat-exporter@3.0.1
