@@ -52,3 +52,5 @@
 - pkg:pypi/async-firebase@3.9.0
 - pkg:pypi/async-firebase@4.0.0
 - pkg:pypi/async-firebase@4.1.0
+- pkg:pypi/async-firebase@5.0.0
+- pkg:pypi/async-firebase@5.1.0

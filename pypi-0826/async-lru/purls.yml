@@ -15,3 +15,5 @@
 - pkg:pypi/async-lru@2.0.3
 - pkg:pypi/async-lru@2.0.4
 - pkg:pypi/async-lru@2.0.5
+- pkg:pypi/async-lru@2.1.0
+- pkg:pypi/async-lru@2.2.0

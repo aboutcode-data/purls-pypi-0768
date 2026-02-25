@@ -13,3 +13,4 @@
 - pkg:pypi/async-sqs-consumer@0.3.8
 - pkg:pypi/async-sqs-consumer@1.0.0
 - pkg:pypi/async-sqs-consumer@1.0.2
+- pkg:pypi/async-sqs-consumer@1.1.0

@@ -1,1 +1,3 @@
 - pkg:pypi/async-pybatis-orm@1.0.0
+- pkg:pypi/async-pybatis-orm@2.0.0
+- pkg:pypi/async-pybatis-orm@2.0.1
