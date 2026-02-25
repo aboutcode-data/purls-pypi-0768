@@ -53,6 +53,10 @@
 - pkg:pypi/aemo-to-tariff@0.6.9
 - pkg:pypi/aemo-to-tariff@0.7.0
 - pkg:pypi/aemo-to-tariff@0.7.1
+- pkg:pypi/aemo-to-tariff@0.7.10
+- pkg:pypi/aemo-to-tariff@0.7.11
+- pkg:pypi/aemo-to-tariff@0.7.12
+- pkg:pypi/aemo-to-tariff@0.7.13
 - pkg:pypi/aemo-to-tariff@0.7.2
 - pkg:pypi/aemo-to-tariff@0.7.3
 - pkg:pypi/aemo-to-tariff@0.7.4
@@ -60,3 +64,4 @@
 - pkg:pypi/aemo-to-tariff@0.7.6
 - pkg:pypi/aemo-to-tariff@0.7.7
 - pkg:pypi/aemo-to-tariff@0.7.8
+- pkg:pypi/aemo-to-tariff@0.7.9
