@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.79.0
 - pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.79.1
 - pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.80.0
@@ -28,3 +30,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-cloudfront-oai-s3@2.99.0

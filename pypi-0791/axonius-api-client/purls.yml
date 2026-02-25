@@ -93,6 +93,7 @@
 - pkg:pypi/axonius-api-client@5.0.2
 - pkg:pypi/axonius-api-client@5.0.20
 - pkg:pypi/axonius-api-client@5.0.21
+- pkg:pypi/axonius-api-client@5.0.22
 - pkg:pypi/axonius-api-client@5.0.3
 - pkg:pypi/axonius-api-client@5.0.4
 - pkg:pypi/axonius-api-client@5.0.5

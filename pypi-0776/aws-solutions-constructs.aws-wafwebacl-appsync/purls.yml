@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.27.0
 - pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.28.0
 - pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.29.0
@@ -83,3 +85,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-wafwebacl-appsync@2.99.0

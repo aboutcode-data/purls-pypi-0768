@@ -4,3 +4,4 @@
 - pkg:pypi/aws-s3-cli@0.0.4
 - pkg:pypi/aws-s3-cli@0.0.5
 - pkg:pypi/aws-s3-cli@0.0.6
+- pkg:pypi/aws-s3-cli@0.0.7

@@ -1,3 +1,5 @@
+- pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.100.0
+- pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.100.1
 - pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.42.0
 - pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.44.0
 - pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.45.0
@@ -68,3 +70,6 @@
 - pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.95.0
 - pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.95.1
 - pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.96.0
+- pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.97.0
+- pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.98.0
+- pkg:pypi/aws-solutions-constructs.aws-openapigateway-lambda@2.99.0
