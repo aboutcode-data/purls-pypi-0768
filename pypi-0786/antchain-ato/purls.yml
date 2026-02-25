@@ -30,6 +30,10 @@
 - pkg:pypi/antchain-ato@1.15.69
 - pkg:pypi/antchain-ato@1.16.27
 - pkg:pypi/antchain-ato@1.16.35
+- pkg:pypi/antchain-ato@1.16.66
+- pkg:pypi/antchain-ato@1.19.2
+- pkg:pypi/antchain-ato@1.19.3
+- pkg:pypi/antchain-ato@1.19.4
 - pkg:pypi/antchain-ato@1.7.13
 - pkg:pypi/antchain-ato@1.7.14
 - pkg:pypi/antchain-ato@1.7.15
