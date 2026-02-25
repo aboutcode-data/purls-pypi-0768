@@ -43,3 +43,8 @@
 - pkg:pypi/astronomer-starship@2.5.1
 - pkg:pypi/astronomer-starship@2.5.2
 - pkg:pypi/astronomer-starship@2.6.0
+- pkg:pypi/astronomer-starship@2.7.0
+- pkg:pypi/astronomer-starship@2.8.0
+- pkg:pypi/astronomer-starship@2.8.1
+- pkg:pypi/astronomer-starship@2.8.3
+- pkg:pypi/astronomer-starship@2.8.4

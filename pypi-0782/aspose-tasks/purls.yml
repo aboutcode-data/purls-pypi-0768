@@ -25,6 +25,7 @@
 - pkg:pypi/aspose-tasks@24.9.0
 - pkg:pypi/aspose-tasks@25.1.0
 - pkg:pypi/aspose-tasks@25.11.0
+- pkg:pypi/aspose-tasks@25.12.0
 - pkg:pypi/aspose-tasks@25.2.0
 - pkg:pypi/aspose-tasks@25.3.0
 - pkg:pypi/aspose-tasks@25.4.0
@@ -33,3 +34,4 @@
 - pkg:pypi/aspose-tasks@25.7.0
 - pkg:pypi/aspose-tasks@25.8.0
 - pkg:pypi/aspose-tasks@25.9.0
+- pkg:pypi/aspose-tasks@26.1.0
