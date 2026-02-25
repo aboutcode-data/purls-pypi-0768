@@ -16,6 +16,7 @@
 - pkg:pypi/ahead@0.2.3
 - pkg:pypi/ahead@0.2.4
 - pkg:pypi/ahead@0.21.4
+- pkg:pypi/ahead@0.22.0
 - pkg:pypi/ahead@0.3.0
 - pkg:pypi/ahead@0.3.1
 - pkg:pypi/ahead@0.4.0
