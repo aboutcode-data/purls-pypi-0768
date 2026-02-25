@@ -10,6 +10,8 @@
 - pkg:pypi/bitswan@2025.11.3.25
 - pkg:pypi/bitswan@2025.11.4.26
 - pkg:pypi/bitswan@2025.12.1.28
+- pkg:pypi/bitswan@2025.12.12.29
+- pkg:pypi/bitswan@2025.12.12.30
 - pkg:pypi/bitswan@2025.7.23.7
 - pkg:pypi/bitswan@2025.7.24.8
 - pkg:pypi/bitswan@2025.7.24.9
@@ -23,3 +25,9 @@
 - pkg:pypi/bitswan@2025.9.10.17
 - pkg:pypi/bitswan@2025.9.19.18
 - pkg:pypi/bitswan@2025.9.22.19
+- pkg:pypi/bitswan@2026.2.12.31
+- pkg:pypi/bitswan@2026.2.13.32
+- pkg:pypi/bitswan@2026.2.13.33
+- pkg:pypi/bitswan@2026.2.16.34
+- pkg:pypi/bitswan@2026.2.20.35
+- pkg:pypi/bitswan@2026.2.21.36

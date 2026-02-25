@@ -38,6 +38,9 @@
 - pkg:pypi/blabpy@0.37.0
 - pkg:pypi/blabpy@0.38.0
 - pkg:pypi/blabpy@0.38.1
+- pkg:pypi/blabpy@0.39.0
+- pkg:pypi/blabpy@0.40.0
+- pkg:pypi/blabpy@0.40.1
 - pkg:pypi/blabpy@0.6.1
 - pkg:pypi/blabpy@0.6.2
 - pkg:pypi/blabpy@0.7.0
