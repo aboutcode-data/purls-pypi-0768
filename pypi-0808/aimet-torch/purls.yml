@@ -23,6 +23,10 @@
 - pkg:pypi/aimet-torch@2.19.0
 - pkg:pypi/aimet-torch@2.2.0
 - pkg:pypi/aimet-torch@2.20.0
+- pkg:pypi/aimet-torch@2.21.0
+- pkg:pypi/aimet-torch@2.22.0
+- pkg:pypi/aimet-torch@2.23.0
+- pkg:pypi/aimet-torch@2.24.0
 - pkg:pypi/aimet-torch@2.3.0
 - pkg:pypi/aimet-torch@2.4.0
 - pkg:pypi/aimet-torch@2.5.0

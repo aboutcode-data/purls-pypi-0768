@@ -20,3 +20,5 @@
 - pkg:pypi/aiodns@3.4.0
 - pkg:pypi/aiodns@3.5.0
 - pkg:pypi/aiodns@3.6.0
+- pkg:pypi/aiodns@3.6.1
+- pkg:pypi/aiodns@4.0.0
