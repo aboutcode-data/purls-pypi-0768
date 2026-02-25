@@ -73,3 +73,5 @@
 - pkg:pypi/apis-core-rdf@0.58.0
 - pkg:pypi/apis-core-rdf@0.58.1
 - pkg:pypi/apis-core-rdf@0.58.2
+- pkg:pypi/apis-core-rdf@0.59.0
+- pkg:pypi/apis-core-rdf@0.60.0
