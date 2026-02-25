@@ -1,0 +1,6 @@
+- pkg:pypi/confluent-flink-table-api-python-plugin@1.20.38
+- pkg:pypi/confluent-flink-table-api-python-plugin@1.20.42
+- pkg:pypi/confluent-flink-table-api-python-plugin@1.20.48
+- pkg:pypi/confluent-flink-table-api-python-plugin@1.20.50
+- pkg:pypi/confluent-flink-table-api-python-plugin@1.20.52
+- pkg:pypi/confluent-flink-table-api-python-plugin@1.20.56
