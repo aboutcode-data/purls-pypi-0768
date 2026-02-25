@@ -32,6 +32,10 @@
 - pkg:pypi/cellprofiler-library-nightly@5.0.0.dev328
 - pkg:pypi/cellprofiler-library-nightly@5.0.0.dev332
 - pkg:pypi/cellprofiler-library-nightly@5.0.0.dev336
+- pkg:pypi/cellprofiler-library-nightly@5.0.0.dev337
+- pkg:pypi/cellprofiler-library-nightly@5.0.0.dev340
+- pkg:pypi/cellprofiler-library-nightly@5.0.0.dev343
+- pkg:pypi/cellprofiler-library-nightly@5.0.0.dev351
 - pkg:pypi/cellprofiler-library-nightly@5.0.0.dev65
 - pkg:pypi/cellprofiler-library-nightly@5.0.0.dev69
 - pkg:pypi/cellprofiler-library-nightly@5.0.0.dev70

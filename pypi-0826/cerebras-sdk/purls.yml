@@ -6,3 +6,6 @@
 - pkg:pypi/cerebras-sdk@2.5.0
 - pkg:pypi/cerebras-sdk@2.6.0
 - pkg:pypi/cerebras-sdk@2.7.0
+- pkg:pypi/cerebras-sdk@2.7.1
+- pkg:pypi/cerebras-sdk@2.8.0
+- pkg:pypi/cerebras-sdk@2.9.0

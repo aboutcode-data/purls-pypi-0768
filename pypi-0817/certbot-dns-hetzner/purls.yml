@@ -6,3 +6,7 @@
 - pkg:pypi/certbot-dns-hetzner@1.0.5
 - pkg:pypi/certbot-dns-hetzner@2.0.0
 - pkg:pypi/certbot-dns-hetzner@2.0.1
+- pkg:pypi/certbot-dns-hetzner@3.0.0
+- pkg:pypi/certbot-dns-hetzner@3.0.0a1
+- pkg:pypi/certbot-dns-hetzner@3.0.0a2
+- pkg:pypi/certbot-dns-hetzner@3.0.0a3
