@@ -56,6 +56,9 @@
 - pkg:pypi/cdpcli@0.9.15
 - pkg:pypi/cdpcli@0.9.150
 - pkg:pypi/cdpcli@0.9.151
+- pkg:pypi/cdpcli@0.9.152
+- pkg:pypi/cdpcli@0.9.153
+- pkg:pypi/cdpcli@0.9.154
 - pkg:pypi/cdpcli@0.9.16
 - pkg:pypi/cdpcli@0.9.17
 - pkg:pypi/cdpcli@0.9.18

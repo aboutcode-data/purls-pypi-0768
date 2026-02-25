@@ -706,6 +706,7 @@
 - pkg:pypi/cdktf-cdktf-provider-google@16.11.2
 - pkg:pypi/cdktf-cdktf-provider-google@16.11.3
 - pkg:pypi/cdktf-cdktf-provider-google@16.12.0
+- pkg:pypi/cdktf-cdktf-provider-google@16.12.1
 - pkg:pypi/cdktf-cdktf-provider-google@16.2.0
 - pkg:pypi/cdktf-cdktf-provider-google@16.3.0
 - pkg:pypi/cdktf-cdktf-provider-google@16.4.0

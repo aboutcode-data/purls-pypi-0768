@@ -154,6 +154,7 @@
 - pkg:pypi/cdktf-cdktf-provider-databricks@15.14.0
 - pkg:pypi/cdktf-cdktf-provider-databricks@15.15.0
 - pkg:pypi/cdktf-cdktf-provider-databricks@15.16.0
+- pkg:pypi/cdktf-cdktf-provider-databricks@15.16.1
 - pkg:pypi/cdktf-cdktf-provider-databricks@15.2.0
 - pkg:pypi/cdktf-cdktf-provider-databricks@15.3.0
 - pkg:pypi/cdktf-cdktf-provider-databricks@15.3.1

@@ -122,6 +122,8 @@
 - pkg:pypi/ccs-digitalmarketplace-utils@79.10.0
 - pkg:pypi/ccs-digitalmarketplace-utils@79.11.0
 - pkg:pypi/ccs-digitalmarketplace-utils@79.12.0
+- pkg:pypi/ccs-digitalmarketplace-utils@79.13.0
+- pkg:pypi/ccs-digitalmarketplace-utils@79.14.0
 - pkg:pypi/ccs-digitalmarketplace-utils@79.2.0
 - pkg:pypi/ccs-digitalmarketplace-utils@79.2.1
 - pkg:pypi/ccs-digitalmarketplace-utils@79.3.0

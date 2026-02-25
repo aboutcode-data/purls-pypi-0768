@@ -56,6 +56,7 @@
 - pkg:pypi/cdktf-cdktf-provider-vault@15.4.0
 - pkg:pypi/cdktf-cdktf-provider-vault@15.5.0
 - pkg:pypi/cdktf-cdktf-provider-vault@15.6.0
+- pkg:pypi/cdktf-cdktf-provider-vault@15.6.1
 - pkg:pypi/cdktf-cdktf-provider-vault@2.0.0
 - pkg:pypi/cdktf-cdktf-provider-vault@2.0.1
 - pkg:pypi/cdktf-cdktf-provider-vault@2.0.10
