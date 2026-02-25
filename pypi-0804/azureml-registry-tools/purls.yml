@@ -21,6 +21,12 @@
 - pkg:pypi/azureml-registry-tools@0.1.0a30
 - pkg:pypi/azureml-registry-tools@0.1.0a31
 - pkg:pypi/azureml-registry-tools@0.1.0a32
+- pkg:pypi/azureml-registry-tools@0.1.0a33
+- pkg:pypi/azureml-registry-tools@0.1.0a34
+- pkg:pypi/azureml-registry-tools@0.1.0a35
+- pkg:pypi/azureml-registry-tools@0.1.0a36
+- pkg:pypi/azureml-registry-tools@0.1.0a37
+- pkg:pypi/azureml-registry-tools@0.1.0a39
 - pkg:pypi/azureml-registry-tools@0.1.0a4
 - pkg:pypi/azureml-registry-tools@0.1.0a5
 - pkg:pypi/azureml-registry-tools@0.1.0a6

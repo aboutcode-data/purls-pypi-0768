@@ -133,6 +133,7 @@
 - pkg:pypi/azureml-automl-core@1.60.0
 - pkg:pypi/azureml-automl-core@1.61.0
 - pkg:pypi/azureml-automl-core@1.61.0.post1
+- pkg:pypi/azureml-automl-core@1.62.0
 - pkg:pypi/azureml-automl-core@1.7.0
 - pkg:pypi/azureml-automl-core@1.7.0.post1
 - pkg:pypi/azureml-automl-core@1.7.0.post2
