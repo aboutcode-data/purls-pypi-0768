@@ -34,6 +34,8 @@
 - pkg:pypi/butler-connect@0.12.10
 - pkg:pypi/butler-connect@0.12.11
 - pkg:pypi/butler-connect@0.12.12
+- pkg:pypi/butler-connect@0.12.13
+- pkg:pypi/butler-connect@0.12.14
 - pkg:pypi/butler-connect@0.12.2
 - pkg:pypi/butler-connect@0.12.3
 - pkg:pypi/butler-connect@0.12.4
