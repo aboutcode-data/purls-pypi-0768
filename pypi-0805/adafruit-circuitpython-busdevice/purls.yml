@@ -45,6 +45,7 @@
 - pkg:pypi/adafruit-circuitpython-busdevice@5.2.12
 - pkg:pypi/adafruit-circuitpython-busdevice@5.2.13
 - pkg:pypi/adafruit-circuitpython-busdevice@5.2.14
+- pkg:pypi/adafruit-circuitpython-busdevice@5.2.15
 - pkg:pypi/adafruit-circuitpython-busdevice@5.2.2
 - pkg:pypi/adafruit-circuitpython-busdevice@5.2.3
 - pkg:pypi/adafruit-circuitpython-busdevice@5.2.4

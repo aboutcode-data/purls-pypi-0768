@@ -91,3 +91,5 @@
 - pkg:pypi/adafruit-circuitpython-wiznet5k@7.2.4
 - pkg:pypi/adafruit-circuitpython-wiznet5k@7.3.0
 - pkg:pypi/adafruit-circuitpython-wiznet5k@7.3.1
+- pkg:pypi/adafruit-circuitpython-wiznet5k@7.4.0
+- pkg:pypi/adafruit-circuitpython-wiznet5k@7.4.1

@@ -42,3 +42,5 @@
 - pkg:pypi/adafruit-circuitpython-lsm6ds@4.5.7
 - pkg:pypi/adafruit-circuitpython-lsm6ds@4.5.8
 - pkg:pypi/adafruit-circuitpython-lsm6ds@4.5.9
+- pkg:pypi/adafruit-circuitpython-lsm6ds@4.6
+- pkg:pypi/adafruit-circuitpython-lsm6ds@4.6.1
