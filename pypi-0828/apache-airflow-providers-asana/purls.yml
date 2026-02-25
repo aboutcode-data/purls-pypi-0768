@@ -29,6 +29,8 @@
 - pkg:pypi/apache-airflow-providers-asana@2.10.4rc1
 - pkg:pypi/apache-airflow-providers-asana@2.11.0
 - pkg:pypi/apache-airflow-providers-asana@2.11.0rc1
+- pkg:pypi/apache-airflow-providers-asana@2.11.1
+- pkg:pypi/apache-airflow-providers-asana@2.11.1rc1
 - pkg:pypi/apache-airflow-providers-asana@2.2.0
 - pkg:pypi/apache-airflow-providers-asana@2.2.0rc1
 - pkg:pypi/apache-airflow-providers-asana@2.2.0rc2

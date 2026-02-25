@@ -142,4 +142,13 @@
 - pkg:pypi/apache-airflow-providers-databricks@7.7.5rc1
 - pkg:pypi/apache-airflow-providers-databricks@7.8.0
 - pkg:pypi/apache-airflow-providers-databricks@7.8.0rc1
+- pkg:pypi/apache-airflow-providers-databricks@7.8.1
 - pkg:pypi/apache-airflow-providers-databricks@7.8.1rc1
+- pkg:pypi/apache-airflow-providers-databricks@7.8.2
+- pkg:pypi/apache-airflow-providers-databricks@7.8.2rc1
+- pkg:pypi/apache-airflow-providers-databricks@7.8.3
+- pkg:pypi/apache-airflow-providers-databricks@7.8.3rc1
+- pkg:pypi/apache-airflow-providers-databricks@7.9.0
+- pkg:pypi/apache-airflow-providers-databricks@7.9.0rc1
+- pkg:pypi/apache-airflow-providers-databricks@7.9.1
+- pkg:pypi/apache-airflow-providers-databricks@7.9.1rc1
