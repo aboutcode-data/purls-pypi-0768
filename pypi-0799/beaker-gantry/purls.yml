@@ -112,3 +112,12 @@
 - pkg:pypi/beaker-gantry@3.3.0.dev20250905
 - pkg:pypi/beaker-gantry@3.3.0.dev20250925
 - pkg:pypi/beaker-gantry@3.3.0.dev20250930
+- pkg:pypi/beaker-gantry@3.3.1
+- pkg:pypi/beaker-gantry@3.4.0
+- pkg:pypi/beaker-gantry@3.4.1
+- pkg:pypi/beaker-gantry@3.4.2
+- pkg:pypi/beaker-gantry@3.4.3
+- pkg:pypi/beaker-gantry@3.4.4
+- pkg:pypi/beaker-gantry@3.4.5
+- pkg:pypi/beaker-gantry@3.4.6
+- pkg:pypi/beaker-gantry@3.5.0
