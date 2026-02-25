@@ -82,11 +82,13 @@
 - pkg:pypi/bolt@0.49.2
 - pkg:pypi/bolt@0.5.0
 - pkg:pypi/bolt@0.5.1
+- pkg:pypi/bolt@0.50.0
 - pkg:pypi/bolt@0.50.0b1
 - pkg:pypi/bolt@0.50.0b2
 - pkg:pypi/bolt@0.50.0b3
 - pkg:pypi/bolt@0.50.0b4
 - pkg:pypi/bolt@0.50.0b5
+- pkg:pypi/bolt@0.50.1
 - pkg:pypi/bolt@0.6.0
 - pkg:pypi/bolt@0.7.0
 - pkg:pypi/bolt@0.7.1
