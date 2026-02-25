@@ -1,0 +1,4 @@
+- pkg:pypi/collective.recipe.libsvm@0.1
+- pkg:pypi/collective.recipe.libsvm@0.2
+- pkg:pypi/collective.recipe.libsvm@0.2dev-r73442
+- pkg:pypi/collective.recipe.libsvm@0.3
