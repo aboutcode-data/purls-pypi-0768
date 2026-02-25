@@ -1,3 +1,4 @@
+- pkg:pypi/bluesky-tiled-plugins@2.0.0
 - pkg:pypi/bluesky-tiled-plugins@2.0.0b54
 - pkg:pypi/bluesky-tiled-plugins@2.0.0b55
 - pkg:pypi/bluesky-tiled-plugins@2.0.0b56
@@ -15,3 +16,5 @@
 - pkg:pypi/bluesky-tiled-plugins@2.0.0b69
 - pkg:pypi/bluesky-tiled-plugins@2.0.0rc1
 - pkg:pypi/bluesky-tiled-plugins@2.0.0rc3
+- pkg:pypi/bluesky-tiled-plugins@2.0.1
+- pkg:pypi/bluesky-tiled-plugins@2.0.2
